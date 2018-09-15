@@ -1,5 +1,10 @@
 # Introduction to Internet of Things (IoT) with ESP8266
 
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+
+
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
 To introduce you to Internet of Things (IoT), we will build a very simple Weather Station.
