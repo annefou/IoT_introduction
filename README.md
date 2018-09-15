@@ -1,8 +1,8 @@
-# FIXME Lesson title
+# Introduction to Internet of Things (IoT) with ESP8266
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
-FIXME
+To introduce you to Internet of Things (IoT), we will build a very simple Weather Station.
 
 ## Contributing
 
@@ -15,7 +15,7 @@ how to write new episodes.
 
 ## Maintainer(s)
 
-* FIXME
+* Anne Fouilloux
 
 ## Authors
 
