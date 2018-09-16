@@ -13,7 +13,8 @@ In this lesson, your will learn:
 
 > ## Prerequisites
 >
-> FIXME
+> No prerequisites but interests into either using some new technology like IoT 
+> and micro-electronics.
 {: .prereq}
 
 {% include links.md %}
