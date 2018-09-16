@@ -79,7 +79,13 @@ It will show values as printed on a serial port in the program
 
 - Tools --> Serial Plotter
 
-It will plot the values.
+It will plot the values. Please make sure you first close the __Serial Monitor__ before opening the Serial Plotter (both cannot work together).
+
+<p align="center">
+<img src="../fig/DS18b20_plot.png"
+     alt="Add libraries to Arduino IDE"
+          height="500" />
+</p>
 
 In both cases, make sure you select "9600 baud".
 
