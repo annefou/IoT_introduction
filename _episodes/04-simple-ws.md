@@ -32,7 +32,7 @@ keypoints:
 
 ## Connect a DS18b20 to our ESP8266
 
-We will add our DS18b20 to the previous circuit. For now our LED will blink independently from our temperature sensor. Later, we will add a photodiode and switch on the LED at "night".
+We will add our [DS18b20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) to the previous circuit. For now our LED will blink independently from our temperature sensor. Later, we will add a photodiode and switch on the LED at "night".
 
 - First **disconnect** your ESP8266 from your computer
 
