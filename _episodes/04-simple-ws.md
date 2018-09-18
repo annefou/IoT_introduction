@@ -40,7 +40,7 @@ We will add our [DS18b20](https://datasheets.maximintegrated.com/en/ds/DS18B20.p
 
 In our example, a 2.2 kohm will be used.
 
-- Bend (gently) the 2 legs of the resistor (to make a U) and place it on the breadboard with one leg connected to the second leg of the DS18b20 (DQ) and the other leg connected to the last leg of the DS18b29 (VDD).
+- Bend (gently) the 2 legs of the resistor (to make a U) and place it on the breadboard with one leg connected to the second leg of the DS18b20 (DQ) and the other leg connected to the last leg of the DS18b20 (VDD).
 
 - Finally connect the first leg of the DS18b20 to the ground (G), the second to 3V and the last to GPIO 14 (D5) as shown on the figure below:
 
