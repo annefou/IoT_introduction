@@ -52,7 +52,7 @@ In our example, a 2.2 kohm will be used.
 
 ## Get data from your program
 
-In order to acquire data from the DS19b20, you need to install a new library on your computer. 
+In order to acquire data from the DS18b20, you need to install a new library on your computer. 
 
 - Download [OneWire Library](../code/OneWire.zip) on your computer
 - Add it to your Arduino libraries (__Sketch --> Include Library --> Add .ZIP library__)
@@ -65,7 +65,7 @@ In order to acquire data from the DS19b20, you need to install a new library on 
 
 Search in your __Downloads__ folder where your OneWire.zip file was stored and add it.
 
-- Download the [code](../code/DS18b20.ino) to acquire and print data from the DS18b10 thermistor
+- Download the [code](../code/DS18b20.ino) to acquire and print data from the DS18b20 thermistor
 
 - Connect your ESP8266 to an USB port on your computer. Check it is recognized properly.
 
